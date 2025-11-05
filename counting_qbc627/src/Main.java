@@ -14,6 +14,16 @@ import java.util.Arrays;
 // testing for github 
 public class Main {
 
+    //Git Testing
+    // Is it working??
+    /*
+    *
+    *
+    *              =(^._.^)=
+    *
+    *
+    * */
+
     // PART 1: Core Counting Functions
 
     // 1. Factorial
