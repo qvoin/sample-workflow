@@ -10,6 +10,8 @@ import java.util.Arrays;
  * Also check for possible errors and handle them appropriately.
  */
 
+
+// testing for github 
 public class Main {
 
     // PART 1: Core Counting Functions
@@ -64,7 +66,7 @@ public class Main {
         return num / den;
     }
     
-    
+
     // 4. Permutations with Indistinguishable Items
     public static long permutationsWithIndistinguishable(int[] counts) {
         if (counts == null || counts.length == 0) return 0;
