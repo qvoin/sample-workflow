@@ -10,7 +10,8 @@ import java.util.Arrays;
  * Also check for possible errors and handle them appropriately.
  */
 
-// Hello my name is jacklyn and this is my testing for github
+// Hello my name is jacklyn and this is my testing for github, this is demonstrating my comment
+    //for the recording
 
 
 // testing for github 
