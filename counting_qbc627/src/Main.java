@@ -13,6 +13,7 @@ import java.util.Arrays;
 // Hello my name is jacklyn and this is my testing for github, this is demonstrating my comment
     //for the recording
 
+    //This is a demonstration for Syntax Squad
 
 // testing for github 
 public class Main {
