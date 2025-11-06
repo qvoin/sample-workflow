@@ -21,7 +21,8 @@ public class Main {
     //Git Testing
     // Is it working??
     /*
-    *
+    *  having to remake my video T_T
+    *  yippee
     *
     *              =(^._.^)=
     *
